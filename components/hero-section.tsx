@@ -69,14 +69,7 @@ export function HeroSection() {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-20 animate-in fade-in slide-in-from-bottom-6 duration-700" style={{ animationDelay: "300ms" }}>
-            <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold uppercase tracking-wider text-base px-8 py-6 group">
-              Začít cvičit
-              <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </Button>
-            <Button size="lg" variant="outline" className="border-border hover:bg-secondary text-foreground font-semibold uppercase tracking-wider text-base px-8 py-6 group">
-              <Play className="mr-2 w-5 h-5" />
-              Prohlídka posilovny
-            </Button>
+           
           </div>
 
           {/* Stats */}

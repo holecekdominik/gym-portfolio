@@ -49,7 +49,7 @@ export function ServicesSection() {
             </h2>
           </div>
           <p className="text-muted-foreground text-lg max-w-md leading-relaxed">
-            Nabízíme kompletní služby pro dosažení vašich fitness cílů pod jednou střechou.
+            Nabízíme kompletní služby pro dosažení vašich fitness cílů pod jednou střechou
           </p>
         </div>
 
